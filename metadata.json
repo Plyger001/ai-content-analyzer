@@ -1,0 +1,7 @@
+{
+  "name": "SocialSense AI",
+  "description": "An advanced social media content analyzer that uses Gemini's multimodal capabilities to extract text and provide strategic engagement improvements from images and PDFs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
